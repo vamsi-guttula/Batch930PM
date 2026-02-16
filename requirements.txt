@@ -1,0 +1,11 @@
+keras
+tensorflow
+torch
+pandas
+numpy 
+scikit-learn
+matplotlib
+ipykernel
+streamlit
+fastapi
+uvicorn
